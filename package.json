@@ -1,13 +1,13 @@
 {
   "name": "@okta/okta-auth-js",
-  "description": "The Okta Auth SDK",
-  "version": "2.1.0",
+  "description": "The Okta Auth SDK modified",
+  "version": "1.0.0",
   "homepage": "https://github.com/okta/okta-auth-js",
   "license": "Apache-2.0",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/okta/okta-auth-js.git"
+    "url": "https://github.com/ivanmlaborda/okta-auth-js-ssr.git"
   },
   "bugs": {
     "url": "https://github.com/okta/okta-auth-js/issues"
